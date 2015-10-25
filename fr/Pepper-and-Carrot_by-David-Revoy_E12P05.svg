@@ -212,12 +212,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1375.3885"
-     inkscape:cy="867.69474"
+     inkscape:cx="1200.3885"
+     inkscape:cy="1528.5643"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -226,11 +226,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2753"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -431,7 +431,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4404">orbite circulaire stable </flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4406">est trop large!</flowPara></flowRoot>    <flowRoot
+         id="flowPara4406">est trop petite!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-9-5-2-50"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
