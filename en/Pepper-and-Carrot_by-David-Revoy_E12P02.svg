@@ -72,8 +72,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.69960253"
-     inkscape:cx="1270.9409"
-     inkscape:cy="843.49819"
+     inkscape:cx="1704.4995"
+     inkscape:cy="879.13046"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep12_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -197,7 +197,7 @@
            y="294.1181"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4352">But that'll take hours, not to mention the time for all the little ampules by hand!</flowPara></flowRoot>    <path
+         id="flowPara4352">But that'll take hours, not to mention the blisters we'll have by the end of it!</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1400.4736,2533.7323 c -18.6319,22.5019 -44.8842,46.6694 -52.0048,51.8217 -6.8645,-10.1867 -15.2086,-18.7014 -21.5731,-25.4015 -11.7344,10.6559 -61.4082,63.3167 -64.096,80.5357 4.1256,-43.1549 37.0517,-85.8621 58.589,-101.807 10.249,8.0984 15.2352,13.7511 20.7482,17.9401 11.4577,-7.4488 38.6153,-39.0061 38.6153,-39.0061 z"
        id="path5066"
