@@ -186,9 +186,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1163.8816"
-     inkscape:cy="229.9631"
+     inkscape:zoom="0.52900001"
+     inkscape:cx="1543.3887"
+     inkscape:cy="3005.076"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -201,11 +201,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -226,23 +226,10 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(0.68024987,0,0,0.77928642,1864.6566,10.116412)" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-4-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.1000385,0,0,1.1857741,1701.9263,-164.8578)"><flowRegion
-         id="flowRegion2989-5-4-5"><rect
-           id="rect2991-7-9-6"
-           width="602.40173"
-           height="310.73996"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3071">Gurges Ater !</flowPara></flowRoot>    <path
+       transform="matrix(0.75720459,0,0,0.76077607,1834.6878,12.637993)" />
+    <path
        style="fill:#0a0a0a;fill-opacity:1;stroke:none"
-       d="m 1882.748,241.11233 c 12.8769,-20.79824 21.8584,-33.68646 30.8495,-34.42048 8.9909,-0.73404 19.5302,-2.45451 26.2874,6.26895 6.757,8.72348 20.3744,16.55036 26.0431,12.72173 5.6686,-3.82881 26.2408,-18.67303 32.7826,-38.69233 6.5418,-20.01935 23.0868,17.86225 23.0868,17.86225 0,0 -19.2869,31.83101 -23.8762,36.05781 -4.5893,4.22693 -16.5837,20.9888 -37.2869,8.9907 -20.703,-11.99834 -30.9794,-28.25116 -41.6877,-30.33144 -10.7083,-2.08042 -27.3574,5.48716 -36.1986,21.54281 z"
+       d="m 1873.2962,237.33161 c 12.8769,-20.79824 21.8584,-33.68646 30.8495,-34.42048 8.9909,-0.73404 19.5302,-2.45451 26.2874,6.26895 6.757,8.72348 20.3744,16.55036 26.0431,12.72173 5.6686,-3.82881 26.2408,-18.67303 32.7826,-38.69233 6.5418,-20.01935 23.0868,17.86225 23.0868,17.86225 0,0 -19.2869,31.83101 -23.8762,36.05781 -4.5893,4.22693 -16.5837,20.9888 -37.2869,8.9907 -20.703,-11.99834 -30.9794,-28.25116 -41.6877,-30.33144 -10.7083,-2.08042 -27.3574,5.48716 -36.1986,21.54281 z"
        id="path3137"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -421,5 +408,18 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4533">de te laisser sans</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4535">surveillance!</flowPara></flowRoot>  </g>
+         id="flowPara4535">surveillance!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.1000385,0,0,1.1857741,1703.8167,-162.96744)"><flowRegion
+         id="flowRegion2989-5-4-5"><rect
+           id="rect2991-7-9-6"
+           width="602.40173"
+           height="310.73996"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3071">GURGES ATER !</flowPara></flowRoot>  </g>
 </svg>
