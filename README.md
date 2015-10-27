@@ -18,7 +18,6 @@ License
 * Italian: Carlo Gandolfi, Antonio Parisi
 * Russian: Denis "uncle Night" Prisukhin
 * Mexicano: RJ Quiralta
-* Russian: Denis "uncle Night" Prisukhin
 
 ## Artwork:
 
