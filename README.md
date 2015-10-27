@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi, Antonio Parisi
