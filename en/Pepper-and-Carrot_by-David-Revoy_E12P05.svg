@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="2753"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P05.svg">
@@ -211,26 +211,26 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000001"
-     inkscape:cx="1209.0842"
-     inkscape:cy="1093.7817"
+     inkscape:zoom="0.2287013"
+     inkscape:cx="126.19671"
+     inkscape:cy="1420.138"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep12_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       width="2481"
-       height="2753"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="2753"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -238,7 +238,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1623.6427,1795.3975 c -3.9236,-72.0757 -51.0066,-102.9655 -72.5866,-113.2619 -21.5798,-10.2966 -113.7845,-25.7414 -174.6004,-25.7414 -60.8158,0 -211.8741,5.1481 -237.3775,7.7225 -25.5035,2.5742 -96.1285,54.0566 -98.0902,100.391 -1.9618,46.3345 9.809,77.224 45.1214,105.5394 35.3125,28.3156 255.034,41.1861 268.7665,38.612 13.7324,-2.5742 196.1802,-20.5929 207.9509,-28.3155 11.7707,-7.7224 58.854,-28.3152 60.8159,-84.9461 z"
+       d="m 1623.6427,1796.1841 c -4.0968,-72.4836 -53.2582,-103.5482 -75.7907,-113.9028 -22.5324,-10.3549 -118.8073,-25.8871 -182.3077,-25.8871 -63.5004,0 -221.2268,5.1772 -247.8559,7.7662 -26.6293,2.5888 -100.3719,54.3625 -102.4202,100.9591 -2.0484,46.5967 10.242,77.661 47.1132,106.1367 36.8713,28.4758 266.2918,41.4191 280.6305,38.8305 14.3386,-2.5888 204.8401,-20.7095 217.1303,-28.4758 12.2903,-7.7661 61.452,-28.4754 63.5005,-85.4268 z"
        id="path3278-1-8-8-1-7"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -302,7 +302,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1609.9532,526.06079 c -4.1686,-54.50658 -54.1913,-77.86654 -77.1186,-85.65306 -22.9272,-7.78665 -120.8887,-19.46671 -185.5016,-19.46671 -64.613,0 -225.1028,3.89326 -252.1985,5.8401 -27.0958,1.94669 -102.13023,40.87969 -104.21453,75.91971 -2.0841,35.03988 10.42163,58.39971 47.93863,79.81298 37.5174,21.4134 270.9573,31.14661 285.5472,29.19992 14.59,-1.9467 208.4288,-15.57318 220.9344,-21.41328 12.5057,-5.83994 62.5286,-21.41312 64.613,-64.23966 z"
+       d="m 1609.9532,533.14034 c -4.236,-58.17746 -55.0669,-83.11065 -78.3647,-91.42158 -23.2976,-8.31106 -122.8419,-20.77774 -188.4988,-20.77774 -65.657,0 -228.74,4.15546 -256.2735,6.23342 -27.5336,2.07779 -103.78039,43.63283 -105.89836,81.03271 -2.11778,37.39972 10.59002,62.33278 48.71316,85.18818 38.1236,22.85554 275.3354,33.24425 290.161,31.16646 14.8258,-2.07781 211.7965,-16.62199 224.5042,-22.85541 12.7078,-6.23325 63.5389,-22.85524 65.657,-68.56604 z"
        id="path3278-1-8-8"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -323,7 +323,7 @@
          id="flowPara2995-4-1-5-0-7-2-5-3-0-4"
          style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41363204;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bam</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 1623.5014,1584.4295 c -5.2329,-76.4181 -68.0289,-109.1687 -96.8106,-120.0856 -28.7817,-10.9167 -151.7574,-27.2921 -232.8691,-27.2921 -81.1118,0 -282.5823,5.4584 -316.59696,8.1878 -34.01453,2.7292 -128.20896,57.3133 -130.82549,106.4392 -2.61624,49.1259 13.08283,81.8764 60.17975,111.8977 47.09721,30.0216 340.1455,43.6674 358.461,40.9382 18.3154,-2.7293 261.6508,-21.8335 277.3497,-30.0214 15.6989,-8.1876 78.495,-30.0211 81.1117,-90.0638 z"
+       d="m 1632.0777,1579.2874 c -5.2906,-79.6811 -68.7794,-113.8302 -97.8786,-125.2132 -29.0993,-11.3828 -153.4317,-28.4575 -235.4382,-28.4575 -82.0067,0 -285.6999,5.6915 -320.08981,8.5374 -34.38979,2.8458 -129.6234,59.7606 -132.2688,110.9841 -2.6451,51.2236 13.22717,85.3725 60.84368,116.6757 47.6168,31.3035 343.89813,45.532 362.41563,42.6862 18.5175,-2.8458 264.5375,-22.7657 280.4095,-31.3033 15.8721,-8.5372 79.361,-31.3029 82.0066,-93.9094 z"
        id="path3278-1-8-8-1"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -389,15 +389,15 @@
          id="flowPara4444">... Just look at this.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-9"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-       transform="translate(760.33214,-44.313807)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(756.04399,-34.308125)"><flowRegion
          id="flowRegion2989-5-4-5-6-5-0-4"><rect
            id="rect2991-7-9-6-4-5-0-8"
            width="576.52673"
            height="60.614937"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:none" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
          id="flowPara4444-7">Insufficient mass!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
