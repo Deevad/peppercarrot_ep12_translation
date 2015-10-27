@@ -155,8 +155,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="894.70151"
-     inkscape:cy="2713.7888"
+     inkscape:cx="1701.139"
+     inkscape:cy="2135.9138"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -169,11 +169,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,7 +185,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1523.9125,969.46981 c 53.3441,-29.25408 81.1933,-20.76994 101.8072,-16.36211 0.5992,5.5105 3.8441,15.28343 3.8441,15.28343 0,0 41.1225,5.61559 56.3704,11.98883 15.248,6.37331 8.6437,21.49794 8.6437,21.49794 0,0 -80.0923,-9.27947 -97.566,-7.1147 -0.9143,-15.11081 -3.6662,-22.57337 -1.3352,-27.91134 -11.0473,-5.66958 -52.4533,-7.1955 -71.7642,2.61795 z"
+       d="m 1463.5375,995.34481 c 53.3441,-29.25408 81.1933,-20.76994 101.8072,-16.36211 0.5992,5.5105 3.8441,15.28343 3.8441,15.28343 0,0 41.1225,5.61559 56.3704,11.98887 15.248,6.3733 8.6437,21.4979 8.6437,21.4979 0,0 -80.0923,-9.2795 -97.566,-7.1147 -0.9143,-15.1108 -3.6662,-22.57337 -1.3352,-27.91134 -11.0473,-5.66958 -52.4533,-7.1955 -71.7642,2.61795 z"
        id="path4456"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -230,12 +230,12 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(1.3522048,0,0,1.1983994,1398.065,768.36446)" />
+       transform="matrix(1.4547405,0,0,1.1757925,1351.6591,773.75282)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.3515489,0,0,1.3480944,1424.708,614.12731)"><flowRegion
+       transform="matrix(1.3515489,0,0,1.3480944,1427.583,619.87731)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -244,7 +244,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3071">CURSUS ANNULATION MAXIMUMUS!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3071">CURSUS ANNULATIONUS MAXIMUS!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1)"
