@@ -16,7 +16,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi, Antonio Parisi
-
+* Mexicano: RJ Quiralta
 
 ## Artwork:
 
