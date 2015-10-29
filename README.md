@@ -17,6 +17,7 @@ License
 * Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
+* Hungarian: Halász Gábor "Hali"
 * Italian: Carlo Gandolfi, Antonio Parisi
 * Mexicano: RJ Quiralta
 * Russian: Denis "uncle Night" Prisukhin
