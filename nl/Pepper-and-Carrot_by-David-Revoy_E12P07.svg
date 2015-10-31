@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P07.svg">
@@ -120,7 +120,7 @@
       <feFlood
          id="feFlood4377-7-9-0-8"
          flood-opacity="1"
-         flood-color="rgb(162,195,203)"
+         flood-color="rgb(128,0,0)"
          result="flood" />
       <feComposite
          id="feComposite4379-3-8-8-2"
@@ -154,9 +154,9 @@
      inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.82390034"
-     inkscape:cx="1396.6415"
-     inkscape:cy="146.34466"
+     inkscape:zoom="0.30973466"
+     inkscape:cx="973.96808"
+     inkscape:cy="2093.2628"
      inkscape:window-x="-5"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
@@ -167,13 +167,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep12_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -276,7 +276,7 @@
          id="flowPara4358-7-1">- EINDE -</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:6.55119371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.65499998;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-size:6.55119371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85499998;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(347.26927,3351.8198)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"

@@ -120,7 +120,7 @@
       <feFlood
          id="feFlood4377-7-9-0-8"
          flood-opacity="1"
-         flood-color="rgb(162,195,203)"
+         flood-color="rgb(128,0,0)"
          result="flood" />
       <feComposite
          id="feComposite4379-3-8-8-2"
@@ -154,9 +154,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1426.7945"
-     inkscape:cy="2639.173"
+     inkscape:zoom="0.46000002"
+     inkscape:cx="936.88621"
+     inkscape:cy="2598.3586"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -169,11 +169,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -276,7 +276,7 @@
          id="flowPara4358-7-1">- FIN -</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-size:6.55119370999999973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.65499998000000004;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-size:6.55119370999999973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85499998000000004;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(347.26927,3351.8198)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"

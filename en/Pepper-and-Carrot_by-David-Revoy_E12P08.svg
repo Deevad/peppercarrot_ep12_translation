@@ -43,9 +43,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2602153"
-     inkscape:cx="636.07115"
-     inkscape:cy="2234.8071"
+     inkscape:zoom="0.2104264"
+     inkscape:cx="969.24317"
+     inkscape:cy="704.59281"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -68,13 +68,13 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
-       width="2481.4438"
-       height="3504.5391"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image4223"
+       y="-1023.3771"
        x="0.54707891"
-       y="-1023.3771" />
+       id="image4223"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="3504.5391"
+       width="2481.4438" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -118,7 +118,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara3488">thanks to the patronage of its readers.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara3497">For this episode, thank you to the XXX Patrons:</flowPara></flowRoot>    <flowRoot
+         id="flowPara3497">For this episode, thank you to the 575 Patrons:</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#a72f14;fill-opacity:1;stroke:none"
@@ -179,7 +179,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
          id="flowPara4904">Software : this episode was 100% drawn with libre software</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle"
-         id="flowPara4908">Krita 2.9.6 , Inkscape 0.91 on Linux Mint 17 </flowPara></flowRoot>    <flowRoot
+         id="flowPara4908">Krita 2.9.8, Inkscape 0.91, BLender 2.71, Gimp 2.8.14, Gmic 1.6.7 on Linux Mint 17.2 </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4307"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:Fondamento;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
