@@ -14,6 +14,8 @@ License
 
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
 * Chinese: Ran Zhuang
 
 * Dutch: Midgard
@@ -26,9 +28,15 @@ License
 
 * Italian: Carlo Gandolfi, Antonio Parisi
 
+* Japanese: Guruguru
+
 * Mexicano: RJ Quiralta
 
 * Russian: Denis "uncle Night" Prisukhin
+
+* Slovak: talime
+
+* Spanish: TheFaico
 
 * Swedish: Mikael Olofsson
 
