@@ -21,6 +21,7 @@ License
 * English: Alex Gryson
 
 * French: David Revoy
+* Polish: Sölve Svartskogen
 
 * Hungarian: Halász Gábor "Hali"
 
