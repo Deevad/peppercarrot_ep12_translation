@@ -211,9 +211,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2287013"
-     inkscape:cx="126.19671"
-     inkscape:cy="1420.138"
+     inkscape:zoom="0.4"
+     inkscape:cx="1454.3055"
+     inkscape:cy="1292.4305"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -226,11 +226,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2753"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -238,7 +238,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 1623.6427,1796.1841 c -4.0968,-72.4836 -53.2582,-103.5482 -75.7907,-113.9028 -22.5324,-10.3549 -118.8073,-25.8871 -182.3077,-25.8871 -63.5004,0 -221.2268,5.1772 -247.8559,7.7662 -26.6293,2.5888 -100.3719,54.3625 -102.4202,100.9591 -2.0484,46.5967 10.242,77.661 47.1132,106.1367 36.8713,28.4758 266.2918,41.4191 280.6305,38.8305 14.3386,-2.5888 204.8401,-20.7095 217.1303,-28.4758 12.2903,-7.7661 61.452,-28.4754 63.5005,-85.4268 z"
+       d="m 1634.3027,1814.0402 c -0.8687,-76.8081 -49.5011,-111.7535 -71.9681,-123.6645 -22.4669,-11.9113 -119.7697,-32.4501 -184.4148,-35.1658 -64.6452,-2.7158 -225.4508,-3.9878 -252.6779,-2.3894 -27.2273,1.5981 -104.6579,53.1817 -108.8658,102.3581 -4.2081,49.1765 6.8888,82.5447 43.1274,114.2272 36.2387,31.6829 269.2054,55.1789 283.9206,53.0554 14.7149,-2.1238 209.4762,-13.1345 222.3417,-20.8197 12.8656,-7.6852 63.8571,-27.4774 68.5369,-87.6013 z"
        id="path3278-1-8-8-1-7"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -323,7 +323,7 @@
          id="flowPara2995-4-1-5-0-7-2-5-3-0-4"
          style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41363204;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Bam</flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 1632.0777,1579.2874 c -5.2906,-79.6811 -68.7794,-113.8302 -97.8786,-125.2132 -29.0993,-11.3828 -153.4317,-28.4575 -235.4382,-28.4575 -82.0067,0 -285.6999,5.6915 -320.08981,8.5374 -34.38979,2.8458 -129.6234,59.7606 -132.2688,110.9841 -2.6451,51.2236 13.22717,85.3725 60.84368,116.6757 47.6168,31.3035 343.89813,45.532 362.41563,42.6862 18.5175,-2.8458 264.5375,-22.7657 280.4095,-31.3033 15.8721,-8.5372 79.361,-31.3029 82.0066,-93.9094 z"
+       d="m 1632.0777,1581.5155 c -5.2906,-87.6551 -68.7794,-125.2216 -97.8786,-137.7438 -29.0993,-12.5219 -153.4317,-31.3053 -235.4382,-31.3053 -82.0067,0 -285.6999,6.261 -320.08981,9.3917 -34.38979,3.1306 -129.6234,65.7411 -132.2688,122.0908 -2.6451,56.3496 13.22717,93.9159 60.84368,128.3518 47.6168,34.4361 343.89813,50.0885 362.41563,46.9579 18.5175,-3.1306 264.5375,-25.044 280.4095,-34.4359 15.8721,-9.3916 79.361,-34.4355 82.0066,-103.3072 z"
        id="path3278-1-8-8-1"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -345,7 +345,7 @@
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-5-2-6-5-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.31635857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6-6)"
-       transform="matrix(0.76790941,-0.19478108,-0.15035117,0.82149688,2091.5307,2161.0857)"
+       transform="matrix(0.76790941,-0.19478108,-0.15035117,0.82149688,2106.3248,2146.2916)"
        inkscape:transform-center-x="221.5852"
        inkscape:transform-center-y="-68.610248"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-68-63-1-5-5"

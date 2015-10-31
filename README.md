@@ -11,13 +11,38 @@ License
 
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
 * Chinese: Ran Zhuang
+
+* Dutch: Midgard
+
 * English: Alex Gryson
+
 * French: David Revoy
+* Polish: Sölve Svartskogen
+
+* Hungarian: Halász Gábor "Hali"
+
 * Italian: Carlo Gandolfi, Antonio Parisi
+
+* Japanese: Guruguru
+
 * Mexicano: RJ Quiralta
+
+* Russian: Denis "uncle Night" Prisukhin
+
+* Slovak: talime
+
+* Spanish: TheFaico
+
+* Swedish: Mikael Olofsson
+
+* Ukrainian: Denis "uncle Night" Prisukhin
+
 
 ## Artwork:
 
