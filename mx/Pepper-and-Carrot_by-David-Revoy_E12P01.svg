@@ -342,8 +342,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="1465.1914"
-     inkscape:cy="2502.5717"
+     inkscape:cx="1000.1914"
+     inkscape:cy="402.5718"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -355,13 +355,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/Kdes/Arts_Crafts/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -388,7 +388,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 952.49732,345.4639 c 9.95677,-45.36622 88.39448,-78.64542 298.60858,-65.78227 112.6018,6.89015 238.8657,12.20612 227.348,78.99988 -13.2759,76.9901 -197.4775,65.13346 -235.6455,61.79196 -38.0226,-3.32875 -235.8457,-10.25238 -268.8352,-33.63366 -20.65067,-14.63604 -23.13533,-27.29668 -21.47588,-41.37591 z"
+       d="m 952.5073,345.4639 c 10.19289,-45.36622 90.4907,-78.64542 305.6898,-65.78227 115.2721,6.89015 244.5302,12.20612 232.7394,78.99988 -13.5907,76.9901 -202.1605,65.13346 -241.2336,61.79196 -38.9243,-3.32875 -241.4386,-10.25238 -275.21044,-33.63366 C 953.35208,372.20377 950.8085,359.54313 952.5073,345.4639 Z"
        id="path4546-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -400,13 +400,13 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 946.03949,544.07947 c 10.00302,-47.01312 93.90291,-79.79698 305.09021,-66.46686 113.1231,7.14027 241.7376,12.96913 228.4004,81.86777 -13.3373,68.89856 -198.3916,63.22449 -236.7363,64.03515 -38.3446,0.81066 -236.9374,-10.62455 -270.07967,-34.85464 -20.7462,-15.16739 -28.34168,-29.99107 -26.67464,-44.58142 z"
+       d="m 991.02078,544.07947 c 9.16112,-47.01312 85.99962,-79.79698 279.41252,-66.46686 103.6022,7.14027 221.392,12.96913 209.1773,81.86777 -12.2147,68.89856 -181.6941,63.22449 -216.8116,64.03515 -35.1173,0.81066 -216.9957,-10.62455 -247.3486,-34.85464 -19.00014,-15.16739 -25.95635,-29.99107 -24.42962,-44.58142 z"
        id="path4546-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 958.20866,724.30884 c 1.234,-50.72301 101.19224,-58.10085 188.80994,-55.33413 87.6177,2.76672 245.5764,-16.60031 230.7677,80.23447 -14.8086,96.83479 -294.9385,52.56741 -303.5768,53.48973 -8.6384,0.9222 -133.27769,-17.52251 -116.00084,-78.39007 z"
+       d="m 973.15035,724.30884 c 1.19016,-50.72301 97.59695,-58.10085 182.10175,-55.33413 84.5047,2.76672 236.8513,-16.60031 222.5687,80.23447 -14.2824,96.83479 -284.4596,52.56741 -292.791,53.48973 -8.3315,0.9222 -128.54247,-17.52251 -111.87945,-78.39007 z"
        id="path5018"
        inkscape:connector-curvature="0" />
     <path
@@ -547,7 +547,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4217">Poción de Huele-Orrible,</flowPara></flowRoot>    <flowRoot
+         id="flowPara4217">Poción de Huele-Horrible,</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-8-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -655,7 +655,7 @@
            x="1279.9999"
            y="3043"
            style="-inkscape-font-specification:Lavi;font-family:Lavi;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara6566"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6566" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6568"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
