@@ -22,6 +22,8 @@ License
 
 * English: Alex Gryson
 
+* Finnish: Kari Lehto
+
 * French: David Revoy
 
 * Polish: Sölve Svartskogen
