@@ -72,8 +72,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49469369"
-     inkscape:cx="1140.6215"
-     inkscape:cy="810.13833"
+     inkscape:cx="1106.2633"
+     inkscape:cy="486.70586"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -84,13 +84,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/Kdes/Arts_Crafts/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -134,12 +134,12 @@
          id="flowPara2995-4-1-5-4-4"
          style="font-size:48px;fill:#6f8a91">Ziooum !</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 231.5133,2601.416 c 5.25309,-10.2204 31.53704,-41.8515 35.92034,-8.3111 43.56015,-46.1553 87.0414,-32.4883 130.52703,-22.2216 10.11923,-13.7799 9.8434,-34.158 46.33862,-31.1958 -6.10023,-12.8551 5.35415,-22.4688 32.47227,-29.1907 -37.22328,-6.0954 -44.58435,-13.9277 22.67455,-26.1005 -51.77584,1.7248 -100.16564,2.3814 -41.86896,-30.6123 -19.08984,0.2225 -62.2678,27.4824 -46.99869,-46.7587 -30.87545,25.0612 -64.75863,39.7294 -112.42703,-7.1731 -11.9267,20.0506 -31.0081,34.1382 -71.81193,9.6233 -6.75975,19.6488 -53.34929,23.5669 -70.85022,20.5129 36.35562,19.7939 36.22153,33.2204 -10.66598,37.6394 81.97155,34.8548 17.02795,32.2184 5.0868,42.6863 63.01232,10.2807 36.60424,28.2721 26.88252,45.3804 71.2574,-2.9773 50.04847,24.7309 54.72068,45.7215 z"
+       d="m 225.31448,2601.416 c 5.61242,-9.5029 33.69428,-38.9134 38.37742,-7.7276 46.53981,-42.9152 92.99533,-30.2076 139.45553,-20.6616 10.81142,-12.8126 10.51672,-31.7601 49.50834,-29.0058 -6.51751,-11.9527 5.72039,-20.8915 34.69349,-27.1415 -39.76948,-5.6675 -47.63407,-12.9499 24.22557,-24.2682 -55.31749,1.6037 -107.01732,2.2142 -44.73294,-28.4632 -20.39566,0.2068 -66.52714,25.553 -50.21357,-43.4762 -32.98743,23.3019 -69.18835,36.9403 -120.11743,-6.6695 -12.74252,18.643 -33.12916,31.7416 -76.72411,8.9477 -7.22215,18.2694 -56.99857,21.9125 -75.69662,19.0729 38.84246,18.4043 38.6992,30.8882 -11.39558,34.997 87.57869,32.4079 18.19273,29.9566 5.43476,39.6896 67.32258,9.559 39.1081,26.2874 28.72138,42.1946 76.13165,-2.7682 53.47195,22.9948 58.46376,42.5118 z"
        id="path3549-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:transform-center-x="-182.81261"
-       inkscape:transform-center-y="58.382842" />
+       inkscape:transform-center-x="-195.31763"
+       inkscape:transform-center-y="54.284268" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 308.27858,2558.8689 c 22.23093,45.0827 43.46026,114.2405 119.66529,91.8336 28.367,25.1116 52.78253,40.8669 113.32912,19.0349 -47.52657,7.5386 -74.32369,6.2336 -113.25897,-34.0723 -40.58299,6.3014 -71.81242,-24.8983 -89.08654,-84.7355 -17.27409,-59.8372 13.4365,-43.9063 13.4365,-43.9063 l -41.14045,33.8175 z"
