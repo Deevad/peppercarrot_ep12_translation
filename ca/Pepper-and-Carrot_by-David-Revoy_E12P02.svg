@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P02.svg">
@@ -71,9 +71,9 @@
      inkscape:window-height="803"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.57"
-     inkscape:cx="1228.8741"
-     inkscape:cy="2799.8675"
+     inkscape:zoom="0.32589935"
+     inkscape:cx="1932.317"
+     inkscape:cy="1078.5222"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -84,13 +84,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Lludriga\Documents\pepper\peppercarrot_ep12_translation-master\peppercarrot_ep12_translation-master\ca\../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep12_Autumn-Clearout/lang/ca/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -179,8 +179,8 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara3030-8-3">Enterrrar-ho tot?!</flowPara></flowRoot>    <path
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1514.6925,2549.1612 c 55.8536,-24.8654 410.5988,-57.1344 508.0941,1.3849 81.3781,48.8452 49.6269,170.4873 -22.7459,198.5053 -72.3724,28.018 -367.8634,21.978 -468.9956,-5.3974 -52.7474,-14.2781 -72.1316,-46.3761 -77.3331,-119.8698 -2.1298,-30.091 5.127,-49.7576 60.9805,-74.623 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1514.6925,2556.145 c 55.8536,-30.364 410.5988,-69.7688 508.0941,1.6912 81.3781,59.6465 49.6269,208.1879 -22.7459,242.4017 -72.3724,34.2137 -367.8634,26.838 -468.9956,-6.591 -52.7474,-17.4355 -72.1316,-56.6315 -77.3331,-146.3772 -2.1298,-36.7451 5.127,-60.7607 60.9805,-91.1247 z"
        id="path4040-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
