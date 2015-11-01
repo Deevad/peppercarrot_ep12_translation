@@ -212,30 +212,32 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1253.5974"
-     inkscape:cy="2144.5586"
+     inkscape:cx="1455.32"
+     inkscape:cy="927.16732"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <image
        sodipodi:absref="D:\GitHub\peppercarrot_ep12_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       width="2481"
-       height="2753"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="2753"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles">
+     inkscape:label="speechbubbles"
+     style="display:inline">
     <path
        style="fill:#ffffff;stroke:none"
        d="m 1599.7296,1878.8952 c -4.0699,-89.4449 -52.909,-127.7786 -75.2939,-140.5563 -22.3846,-12.7779 -118.0283,-31.9447 -181.1125,-31.9447 -63.084,0 -219.7764,6.3886 -246.231,9.5836 -26.4547,3.1945 -99.71379,67.0832 -101.74866,124.5836 -2.03497,57.5004 10.17486,95.8339 46.80426,130.9729 36.6296,35.1392 264.5461,51.1113 278.7908,47.9169 14.2445,-3.1946 203.4971,-25.5555 215.7069,-35.1391 12.2097,-9.5835 61.0491,-35.1388 63.0841,-105.4169 z"
@@ -292,48 +294,17 @@
        d="m 1609.9532,558.36213 c -4.1686,-71.25543 -54.1913,-101.79348 -77.1186,-111.97265 -22.9272,-10.17934 -120.8887,-25.44846 -185.5016,-25.44846 -64.613,0 -225.1028,5.08959 -252.1985,7.63465 -27.0958,2.54488 -102.13023,53.44125 -104.21453,99.24842 -2.0841,45.80697 10.42163,76.34484 47.93863,104.33801 37.5174,27.99334 270.9573,40.71738 285.5472,38.17251 14.59,-2.54489 208.4288,-20.35853 220.9344,-27.99318 12.5057,-7.63445 62.5286,-27.99298 64.613,-83.9793 z"
        id="path3278-1-8-8"
        inkscape:connector-curvature="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-7-9-9-7-0-3-5-2-6-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41363204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6)"
-       transform="matrix(0.5891546,-0.22646943,-0.18155182,0.95514375,2198.6609,974.75851)"
-       inkscape:transform-center-x="159.45651"
-       inkscape:transform-center-y="-79.772276"><flowRegion
-         id="flowRegion2989-4-5-8-7-41-7-68-63-1-5"
-         style="stroke-width:7.69644117"><rect
-           id="rect2991-45-1-3-3-8-0-3-6-32-1"
-           width="319.66232"
-           height="53.089447"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41363204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara2995-4-1-5-0-7-2-5-3-0-4"
-         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41363204;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">嘭</flowPara></flowRoot>    <path
+    <path
        style="fill:#ffffff;stroke:none"
        d="m 1632.1971,1616.9496 c -5.1305,-94.4075 -66.6973,-134.868 -94.9155,-148.3548 -28.2183,-13.4866 -148.7868,-33.7169 -228.3107,-33.7169 -79.524,0 -277.0507,6.7432 -310.39946,10.1152 -33.34869,3.3718 -125.69924,70.8053 -128.26455,131.4961 -2.56503,60.6906 12.82673,101.1507 59.00172,138.2392 46.17526,37.089 333.48709,53.9472 351.44399,50.5756 17.9569,-3.3719 256.529,-26.9734 271.9205,-37.0887 15.3916,-10.1151 76.9585,-37.0884 79.524,-111.2657 z"
        id="path3278-1-8-8-1"
        inkscape:connector-curvature="0" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2987-7-9-9-7-0-3-5-2-6-5-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.31635857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6-6)"
-       transform="matrix(0.76790941,-0.19478108,-0.15035117,0.82149688,2091.5307,2161.0857)"
-       inkscape:transform-center-x="221.5852"
-       inkscape:transform-center-y="-68.610248"><flowRegion
-         id="flowRegion2989-4-5-8-7-41-7-68-63-1-5-5"
-         style="stroke-width:7.16684103"><rect
-           id="rect2991-45-1-3-3-8-0-3-6-32-1-1"
-           width="319.66232"
-           height="53.089447"
-           x="120.55251"
-           y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.31635857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
-         id="flowPara2995-4-1-5-0-7-2-5-3-0-4-9"
-         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.31635857;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">?!</flowPara></flowRoot>  </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1610.0831,2041.7939 c -23.5239,-11.1209 -47.3263,-22.1625 -68.631,-37.2577 -13.8627,-9.8561 -26.3376,-22.6047 -32.6733,-38.6498 -6.7592,-16.8449 -7.6403,-35.3512 -7.1522,-53.2877 0.6811,-12.418 3.068,-25.7204 11.6939,-35.2524 7.6429,-8.5397 20.1613,-10.9047 31.0001,-8.4349 4.0363,0.2274 -1.4641,4.3023 -1.6728,6.5427 -12.7185,24.8701 -18.1367,54.2103 -11.4736,81.6335 5.8285,24.5885 21.7446,45.7666 41.3302,61.2744 11.5441,9.2618 24.3106,16.9164 37.5787,23.4319 z"
@@ -433,5 +404,37 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;stroke:none"
          id="flowPara3446">稳定圆形轨道上的拉格朗日点，</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;text-anchor:middle;stroke:none"
-         id="flowPara3442">然后继续在其周围飘浮。</flowPara></flowRoot>  </g>
+         id="flowPara3442">然后继续在其周围飘浮。</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-3-5-2-6-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41363204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6)"
+       transform="matrix(0.5891546,-0.22646943,-0.18155182,0.95514375,2198.6609,974.75851)"
+       inkscape:transform-center-x="159.45651"
+       inkscape:transform-center-y="-79.772276"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-68-63-1-5"
+         style="stroke-width:7.69644117"><rect
+           id="rect2991-45-1-3-3-8-0-3-6-32-1"
+           width="319.66232"
+           height="53.089447"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.41363204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-5-3-0-4"
+         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.41363204;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">嘭</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-7-9-9-7-0-3-5-2-6-5-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.31635857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6-6)"
+       transform="matrix(0.76790941,-0.19478108,-0.15035117,0.82149688,2091.5307,2161.0857)"
+       inkscape:transform-center-x="221.5852"
+       inkscape:transform-center-y="-68.610248"><flowRegion
+         id="flowRegion2989-4-5-8-7-41-7-68-63-1-5-5"
+         style="stroke-width:7.16684103"><rect
+           id="rect2991-45-1-3-3-8-0-3-6-32-1-1"
+           width="319.66232"
+           height="53.089447"
+           x="120.55251"
+           y="265.53046"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.31635857;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara2995-4-1-5-0-7-2-5-3-0-4-9"
+         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.31635857;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">?!</flowPara></flowRoot>  </g>
 </svg>

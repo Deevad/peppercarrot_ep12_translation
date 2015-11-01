@@ -155,8 +155,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.3478261"
-     inkscape:cx="1701.139"
-     inkscape:cy="175.15727"
+     inkscape:cx="1425.139"
+     inkscape:cy="290.15727"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -165,24 +165,27 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <image
        sodipodi:absref="D:\GitHub\peppercarrot_ep12_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       y="0"
-       x="0"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles" />
+     inkscape:label="speechbubbles"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1463.5375,995.34481 c 53.3441,-29.25408 81.1933,-20.76994 101.8072,-16.36211 0.5992,5.5105 3.8441,15.28343 3.8441,15.28343 0,0 41.1225,5.61559 56.3704,11.98887 15.248,6.3733 8.6437,21.4979 8.6437,21.4979 0,0 -80.0923,-9.2795 -97.566,-7.1147 -0.9143,-15.1108 -3.6662,-22.57337 -1.3352,-27.91134 -11.0473,-5.66958 -52.4533,-7.1955 -71.7642,2.61795 z"
@@ -272,7 +275,7 @@
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4358-7-1">- 完 -</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
@@ -285,6 +288,6 @@
            x="-69.735092"
            y="-2.5750711"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end;fill:#000000" /></flowRegion><flowPara
-         style="font-size:32.97025299px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.97025299px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
          id="flowPara3272-6-3-1">2015年10月 - 绘图及脚本：David Revoy - 翻译：庄冉</flowPara></flowRoot>  </g>
 </svg>

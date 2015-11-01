@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1230.8349"
-     inkscape:cy="400.85619"
+     inkscape:cx="1680.689"
+     inkscape:cy="1531.2909"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -109,24 +109,27 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <image
        sodipodi:absref="D:\GitHub\peppercarrot_ep12_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P03.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P03.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="speechbubbles" />
+     inkscape:label="speechbubbles"
+     style="display:none" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="txt">
+     inkscape:label="txt"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 360.65741,1428.9168 c 3.96899,-2.1762 19.79333,-6.9821 19.79333,-6.9821 0.55874,-0.5426 31.82703,-6.6724 33.89724,-3.2539 23.50142,-1.8382 18.51495,16.9819 16.90818,17.9577 23.09413,3.5551 36.75984,-0.6117 56.56622,-7.1964 -18.01666,1.9167 -27.40814,2.7487 -39.91218,-3.6394 -9.20058,-5.3807 -7.73265,-12.4453 -4.16316,-19.8417 -16.63434,-0.4326 -32.65372,-1.9056 -38.35236,-20.837 l -3.29059,-6.528 c -65.32627,-16.3385 -79.16215,32.6762 -41.44668,50.3208 z"
@@ -175,7 +178,7 @@
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:2.47324347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:2.47324347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4358-7-1">啊～～!</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1781.4243,1063.9682 -62.3194,-17.6058 15.7437,31.612 c -29.0302,1.054 -44.1555,-5.0425 -64.7535,-8.3248 l 32.3767,24.9744 -5.3961,6.9375 c 5.2564,4.0563 13.1881,6.8229 15.1091,12.4872 -14.6649,3.5299 -25.2088,3.5276 -37.3368,4.8829 11.4116,4.6911 20.9124,10.1192 27.6238,16.623 l -38.852,11.0997 35.6121,9.7107 c -26.7864,15.9684 -60.4532,26.0392 -91.7319,38.1572 l 92.137,-4.4691 -22.7332,26.0385 c 12.9395,-2.3337 19.985,-5.6968 39.598,-9.7759 -12.2069,6.7972 -49.4039,30.6095 -45.7253,28.6845 4.3168,-0.6938 52.2006,-9.9537 52.2006,-9.9537 0,0 -32.3767,19.4248 -28.0598,19.4248 4.3168,0 39.9313,-4.8562 39.9313,-4.8562 l -11.8715,18.7309 46.4067,-10.4062 -19.426,23.2901 c 12.0737,-1.3701 19.8639,-1.8485 15.5712,6.2499 43.1337,-15.4792 23.9955,-0.076 -13.5333,37.1555 24.618,-11.0759 38.9348,-22.3054 74.1329,-34.2808 8.4834,10.6468 9.6822,25.4383 5.8502,39.734 11.5549,-10.8729 21.0637,-23.752 43.1691,-24.2808 8.8903,2.4261 6.9882,10.143 7.5546,16.6497 l 32.3767,-20.8121 0,21.5059 c 14.944,-16.6485 27.9578,-21.0466 42.0898,-24.9746 11.6716,5.285 23.3526,11.8867 21.576,33.89 17.2704,-18.7084 36.208,-26.7881 51.8113,-21.4026 9.2809,8.6603 11.5018,18.5791 14.03,28.4431 2.6486,-9.3042 2.9118,-19.9077 10.7924,-26.362 4.9126,6.1471 3.8217,14.2562 3.2377,22.1996 7.6178,-15.1584 18.8955,-22.5421 30.2181,-29.8306 17.0973,6.0416 18.9217,16.8478 22.6639,27.0557 5.8601,-11.93 7.5153,-14.0495 21.5843,-24.9745 42.5683,0.6347 65.2187,36.8319 80.9419,67.9861 -4.5553,-28.0049 -8.3567,-55.2021 -6.4753,-76.311 12.2311,-2.1997 24.4623,2.2 36.6936,8.3249 l -6.4753,-18.731 45.3275,12.4873 -20.5055,-29.137 c 69.191,-0.9336 55.3008,4.0668 71.2292,6.9375 l -12.9509,-18.731 47.4861,14.5685 c -12.9724,-15.5004 -25.0381,-24.5877 -33.8792,-38.7602 l 44.6713,-4.2516 c -19.454,-12.4698 -28.7603,-18.9068 -46.695,-31.5997 l 32.6652,-7.9432 -41.0106,-20.8121 32.3767,-11.7935 -25.9013,-2.775 43.1689,-24.9745 -57.199,-2.0812 69.0705,-45.0929 -79.8626,9.7124 6.4753,-32.6057 -44.2482,23.5871 21.2651,-64.9555 c -36.5247,27.952 -45.5884,26.7728 -88.7892,56.9246 l 13.4095,-29.2312 -46.2534,25.2678 4.3168,-23.3863 -63.6741,28.4431 6.4753,-13.1809 -19.4261,12.4872 4.3167,-17.3434 -33.4558,20.8121 3.0803,-18.1335 -16.0311,11.8898 -4.9364,-11.3937 -18.8065,7.2313 c -5.6587,-30.0619 -8.3845,-38.9919 -1.6569,-69.05386 -22.0801,34.41376 -37.6717,44.41146 -74.9682,70.44136 l -11.8714,-13.1763 -14.8019,12.1839 -14.9517,-15.7489 -22.5114,18.8194 c -17.8016,-14.3372 -28.1698,-23.1215 -35.1522,-37.4586 3.4434,13.4369 5.9472,22.4634 0.9242,37.261 -65.7156,-22.6555 -88.3415,-37.261 -88.3415,-37.261 0,0 10.5212,23.6387 15.2782,37.3303 z"
@@ -206,7 +209,7 @@
            x="120.55251"
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:45px;text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'WenQuanYi Micro Hei';font-family:'WenQuanYi Micro Hei';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';text-align:center;letter-spacing:1.5px;text-anchor:middle;stroke:#000000;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara3030-8-7">萝卜头！</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-8-6-6-6-0-7-2"
@@ -254,10 +257,10 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-5-2-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7)"
-       transform="matrix(0.69413547,-0.3960575,-0.18345695,1.6511803,1948.8802,2819.5754)"
-       inkscape:transform-center-x="192.72092"
-       inkscape:transform-center-y="-136.44814"><flowRegion
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7)"
+       transform="matrix(1.1085008,-0.38063391,-0.29297189,1.5868787,1933.2941,2835.7465)"
+       inkscape:transform-center-x="307.7659"
+       inkscape:transform-center-y="-131.13455"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-68-63-1"
          style="stroke-width:5.40286207"><rect
            id="rect2991-45-1-3-3-8-0-3-6-32"
@@ -265,15 +268,15 @@
            height="53.089447"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-7-2-5-3-0"
          style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哒哒</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-5-2-6-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6)"
-       transform="matrix(0.74738538,-0.36226504,-0.23031168,1.5278671,2226.8064,2821.3226)"
-       inkscape:transform-center-x="202.28223"
-       inkscape:transform-center-y="-127.60543"><flowRegion
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-7-3-7-6)"
+       transform="matrix(1.1518203,-0.34811641,-0.35494093,1.4681948,2169.5369,2836.358)"
+       inkscape:transform-center-x="311.74379"
+       inkscape:transform-center-y="-122.62165"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-68-63-1-5"
          style="stroke-width:5.40286207"><rect
            id="rect2991-45-1-3-3-8-0-3-6-32-1"
@@ -281,7 +284,7 @@
            height="53.089447"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-7-2-5-3-0-4"
          style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99236238;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">哒哒</flowPara></flowRoot>  </g>
 </svg>
