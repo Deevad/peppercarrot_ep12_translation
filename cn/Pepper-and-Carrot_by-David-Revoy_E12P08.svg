@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P08.svg">
@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.43942712"
-     inkscape:cx="1241.3599"
+     inkscape:cx="661.05889"
      inkscape:cy="-214.1706"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -62,25 +62,25 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="artwork"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep12_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep12_Autumn-Clearout/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P08.png"
+       width="2481.4438"
        height="3504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles"
-     style="display:none"
+     style="display:inline"
      transform="translate(0,1024)">
     <path
        style="fill:#ffffff;stroke:none"

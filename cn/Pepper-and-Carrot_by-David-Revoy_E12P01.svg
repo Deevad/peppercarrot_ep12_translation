@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P01.svg">
@@ -342,8 +342,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="725.07296"
-     inkscape:cy="805.00231"
+     inkscape:cx="852.57295"
+     inkscape:cy="980.0023"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -354,21 +354,21 @@
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep12_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep12_Autumn-Clearout/lang/cn/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="speechbubbles"
-     style="display:none">
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;filter:url(#filter4386);enable-background:accumulate"
        d="m 1152.3403,359.6865 c 46.9224,48.193 -72.6261,148.9581 -69.9511,186.808 0.8976,12.701 4.6514,39.1331 13.894,48.482 15.5943,15.774 45.2047,6.6421 10.8388,135.377 -9.0437,28.8541 29.9664,60.646 67.9498,58.4261 14.4699,2.2199 36.9567,21.4779 4.3995,103.602 -25.6503,61.04103 109.1284,134.6241 146.8054,110.0019 -58.641,-4.35093 -123.6032,-50.38687 -131.4964,-83.57488 -3.5061,-14.29406 19.9963,-77.89826 27.2312,-108.97226 7.235,-31.0741 -37.6689,-39.43486 -50.3301,-46.09376 -12.661,-6.659 -34.0709,-5.7061 -37.6883,-23.462 -3.6174,-17.7571 21.0815,-82.2671 17.464,-115.5611 -3.6175,-33.2929 -35.6018,-40.787 -37.4106,-71.8609 -1.8087,-31.074 65.2373,-98.222 76.0523,-131.3221 13.3956,-34.9709 5.6511,-79.607 5.6511,-79.607 z"
