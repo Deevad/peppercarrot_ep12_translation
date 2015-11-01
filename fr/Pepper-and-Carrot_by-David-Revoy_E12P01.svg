@@ -342,12 +342,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="840.19141"
-     inkscape:cy="2675.0717"
+     inkscape:cx="387.69143"
+     inkscape:cy="905.07179"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -355,13 +355,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep12_Autumn-Clearout/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -614,7 +614,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4297-3-5">&quot;Une-vraie-sorcière-de-Chaosah</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara5032">ne-dois-pas-faire-ce-genre-de-potions-là&quot;.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5032">ne-doit-pas-faire-ce-genre-de-potions-là&quot;.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-8-6-6-6-0-70"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
