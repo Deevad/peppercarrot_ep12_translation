@@ -212,12 +212,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1165.6429"
-     inkscape:cy="335.87546"
+     inkscape:cx="1037.382"
+     inkscape:cy="785.87545"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -226,11 +226,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="2753"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -287,12 +287,12 @@
    style="font-size:6.46212626px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10959909;stroke-miterlimit:4;stroke-dasharray:none"
    id="flowSpan3127">owoo</flowSpan></flowPara></flowRoot>    <path
        style="fill:#ffffff;stroke:none"
-       d="m 768.59135,172.96873 c 3.58394,-49.442 46.59019,-70.63143 66.3014,-77.694449 19.71122,-7.06314 103.93193,-17.65792 159.48177,-17.65792 55.54998,0 193.52828,3.53151 216.82338,5.29745 23.295,1.76582 87.8045,37.081279 89.5965,68.865489 1.7919,31.78408 -8.9597,52.97339 -41.2144,72.397 -32.2548,19.42374 -232.9507,28.25257 -245.4942,26.48676 -12.5435,-1.76582 -179.19305,-14.12617 -189.94461,-19.42362 -10.75156,-5.29732 -53.7578,-19.42349 -55.54984,-58.27071 z"
+       d="m 768.59135,165.79066 c 3.58394,-45.72004 46.59019,-65.31434 66.3014,-71.845658 19.71122,-6.53143 103.93193,-16.328641 159.48177,-16.328641 55.54998,0 193.52828,3.26566 216.82338,4.898661 23.295,1.63289 87.8045,34.289818 89.5965,63.681328 1.7919,29.3914 -8.9597,48.98559 -41.2144,66.947 -32.2548,17.96153 -232.9507,26.12573 -245.4942,24.49285 -12.5435,-1.63289 -179.19305,-13.06276 -189.94461,-17.96142 -10.75156,-4.89854 -53.7578,-17.9613 -55.54984,-53.88412 z"
        id="path3278"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 916.09138,270.52629 c 3.25021,-35.4172 42.25185,-50.596 60.12762,-55.65551 17.87576,-5.0596 94.2541,-12.64904 144.6313,-12.64904 50.3773,0 175.5075,2.52975 196.6334,3.79476 21.1259,1.26493 79.6285,26.56275 81.2536,49.33099 1.625,22.76815 -8.1255,37.94687 -37.3766,51.86075 -29.2514,13.91396 -211.2591,20.23839 -222.6346,18.97347 -11.3755,-1.26492 -162.5071,-10.11912 -172.2575,-13.91388 -9.75042,-3.79467 -48.75205,-13.91379 -50.37722,-41.74154 z"
+       d="m 903.0479,270.52629 c 3.5429,-35.4172 46.05668,-50.596 65.54219,-55.65551 19.48548,-5.0596 102.74181,-12.64904 157.65561,-12.64904 54.9138,0 191.3121,2.52975 214.3403,3.79476 23.0284,1.26493 86.7993,26.56275 88.5707,49.33099 1.7713,22.76815 -8.8572,37.94687 -40.7424,51.86075 -31.8856,13.91396 -230.2833,20.23839 -242.6831,18.97347 -12.3998,-1.26492 -177.14111,-10.11912 -187.76956,-13.91388 -10.62845,-3.79467 -53.14222,-13.91379 -54.91374,-41.74154 z"
        id="path3278-1"
        inkscape:connector-curvature="0" />
     <path
@@ -385,7 +385,7 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4444-7">¡Una masa insuficiente!</flowPara></flowRoot>    <flowRoot
+         id="flowPara4444-7">¡La masa es insuficiente!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-9-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -398,9 +398,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4228">¡Un campo gravitacional</flowPara><flowPara
+         id="flowPara4228">¡El campo gravitacional</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara6464">con un eje vajo!</flowPara></flowRoot>    <flowRoot
+         id="flowPara6464">tiene un eje muy vajo!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-9-5-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -421,7 +421,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-9-5-2-50"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(923.91327,1505.5964)"><flowRegion
+       transform="translate(919.56544,1490.379)"><flowRegion
          id="flowRegion2989-5-4-5-6-5-0-4-0-2-3"><rect
            id="rect2991-7-9-6-4-5-0-8-8-4-7"
            width="515.98291"
@@ -430,11 +430,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4596"><flowSpan
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-           id="flowSpan4280">Para una mejor conclusión, un poco más</flowSpan></flowPara><flowPara
-         style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara6485">de cabello hubiera</flowPara><flowPara
+         id="flowPara6485"><flowSpan
+   id="flowSpan6476"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:'Lavi Italic';text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">En conclusión: un poco más </flowSpan>de la poción de Gran-Cabello hubiera</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara6487">realizado el truco!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -453,7 +451,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
          id="flowPara4482-3">Todos los objetos girarán</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
-         id="flowPara6475">en una órbita estable ó mejor dicho &quot;Los puntos de Lagrange&quot;</flowPara><flowPara
+         id="flowPara6475">en una órbita estable ó mejor dicho en &quot;Los puntos de Lagrange&quot;</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
          id="flowPara6477">mientras continuan flotando.</flowPara></flowRoot>  </g>
 </svg>

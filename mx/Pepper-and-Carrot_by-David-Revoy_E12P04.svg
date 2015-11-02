@@ -187,8 +187,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.52900001"
-     inkscape:cx="1210.6854"
-     inkscape:cy="411.50327"
+     inkscape:cx="1199.3432"
+     inkscape:cy="560.84164"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -201,11 +201,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -310,11 +310,11 @@
          style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:1.42624533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4358-7-1">¡¿?!</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1926.0413,2503.6393 c 74.0582,-64.6762 421.0131,-30.01 459.5327,29.7587 38.5194,59.7686 61.1672,197.7559 -4.8267,234.4071 -65.994,36.6512 -446.0744,9.2262 -479.6614,-60.6364 -33.5872,-69.8628 -49.1029,-138.8534 24.9554,-203.5294 z"
+       d="m 1987.5401,2503.6393 c 64.8867,-64.6762 368.874,-30.01 402.6233,29.7587 33.7491,59.7686 53.5921,197.7559 -4.2289,234.4071 -57.8212,36.6512 -390.8317,9.2262 -420.2593,-60.6364 -29.4276,-69.8628 -43.0219,-138.8534 21.8649,-203.5294 z"
        id="path4008-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssz"
-       inkscape:transform-center-x="-467.5629"
+       inkscape:transform-center-x="-409.659"
        inkscape:transform-center-y="-138.93831" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
@@ -326,7 +326,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(1716.3328,2258.5395)"><flowRegion
+       transform="translate(1737.1268,2254.7588)"><flowRegion
          id="flowRegion2989-5-4-5-6-5"><rect
            id="rect2991-7-9-6-4-5"
            width="602.40173"
@@ -337,7 +337,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4388">... ¿Ésto es lo que</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara6457">tu entiendes por:</flowPara><flowPara
+         id="flowPara6457">entiendes por:</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara6461">&quot;Deberás hacerlo</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -372,7 +372,7 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1878.7308,3319.7061 c -30.2261,-96.2141 19.352,-134.0483 59.7386,-164.0178 57.6925,-42.8115 339.9575,-62.032 395.2312,-23.9113 55.2741,38.1213 73.4982,65.3575 79.3027,102.0356 5.8048,36.6781 7.7755,134.5555 -45.4688,165.9991 -53.2444,31.4438 -192.2521,44.0844 -275.1599,43.9195 -97.9728,-0.195 -198.702,-37.0034 -213.6438,-124.0251 z"
+       d="m 1877.1305,3325.6315 c -31.1673,-98.9497 19.9544,-137.8596 61.5984,-168.6812 59.4888,-44.0287 350.5421,-63.7957 407.5367,-24.5911 56.995,39.2051 75.7866,67.2157 81.7717,104.9367 5.9856,37.7209 8.0176,138.3812 -46.8844,170.7188 -54.9022,32.3378 -198.2378,45.3378 -283.727,45.1683 -101.0231,-0.2006 -204.8884,-38.0555 -220.2954,-127.5515 z"
        id="path3517"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -393,7 +393,7 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-1-0-2-0-5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(1688.2802,2902.1525)"><flowRegion
+       transform="translate(1707.1838,2898.3718)"><flowRegion
          id="flowRegion2989-5-4-5-6-5-0-7-2"><rect
            id="rect2991-7-9-6-4-5-0-3-2"
            width="628.27673"
@@ -408,7 +408,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara6493">dejar de cuidarte ni</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara6495">un segundo!</flowPara></flowRoot>    <flowRoot
+         id="flowPara6495">por un segundo!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
