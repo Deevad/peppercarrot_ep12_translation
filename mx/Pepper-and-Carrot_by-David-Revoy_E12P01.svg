@@ -342,8 +342,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000002"
-     inkscape:cx="1000.1914"
-     inkscape:cy="402.5718"
+     inkscape:cx="972.6914"
+     inkscape:cy="685.07179"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -357,11 +357,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep12_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -406,7 +406,7 @@
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 973.15035,724.30884 c 1.19016,-50.72301 97.59695,-58.10085 182.10175,-55.33413 84.5047,2.76672 236.8513,-16.60031 222.5687,80.23447 -14.2824,96.83479 -284.4596,52.56741 -292.791,53.48973 -8.3315,0.9222 -128.54247,-17.52251 -111.87945,-78.39007 z"
+       d="m 973.15035,742.78135 c 1.19016,-51.60647 97.59695,-59.11282 182.10175,-56.29791 84.5047,2.81491 236.8513,-16.88944 222.5687,81.63196 -14.2824,98.5214 -284.4596,53.483 -292.791,54.42138 -8.3315,0.93826 -128.54247,-17.8277 -111.87945,-79.75543 z"
        id="path5018"
        inkscape:connector-curvature="0" />
     <path
@@ -586,7 +586,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4297">... ¡Y otras más!</flowPara></flowRoot>    <flowRoot
+         id="flowPara4297">... ¡Y las demas de</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle"
+         id="flowPara6508">ese estilo!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-8-6-6-6-0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -614,7 +616,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle"
          id="flowPara4297-3-5">&quot;Una-verdadera-hechicera-de-Chaosah</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara5032">no-debería-hacer-este-tipo-de-pociones&quot;.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5032">no-debería-hacer-éste-tipo-de-pociones&quot;.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-7-8-6-6-6-0-70"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -659,7 +661,7 @@
        xml:space="preserve"
        id="flowRoot6568"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-7.5,34.999998)"><flowRegion
+       transform="translate(4.9999994,32.499998)"><flowRegion
          id="flowRegion6570"><rect
            id="rect6572"
            width="417.5"
@@ -671,7 +673,7 @@
        xml:space="preserve"
        id="flowRoot6576"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-7.4999996,4.9999994)"><flowRegion
+       transform="translate(2.4999999,2.4999995)"><flowRegion
          id="flowRegion6578"><rect
            id="rect6580"
            width="525"
