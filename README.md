@@ -38,6 +38,8 @@ License
 
 * Japanese: Guruguru
 
+* Lojban: Gleki Arxokuna, la krtis
+
 * Mexicano: RJ Quiralta
 
 * Portuguese: Alexandre Esteves Almeida
