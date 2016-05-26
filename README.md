@@ -38,7 +38,7 @@ License
 
 * Japanese: Guruguru
 
-* Lojban: Gleki Arxokuna, la krtis
+* Lojban: Gleki Arxokuna, lai krtis
 
 * Mexicano: RJ Quiralta
 
