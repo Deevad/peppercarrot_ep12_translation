@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E12P07.svg">
@@ -150,15 +150,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-width="1381"
+     inkscape:window-height="876"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.92000004"
-     inkscape:cx="1449.0401"
-     inkscape:cy="333.39698"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.3478261"
+     inkscape:cx="871.70153"
+     inkscape:cy="512.56958"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -167,7 +167,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep12_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
+       sodipodi:absref="/home/stefan/Documents/Pepper&amp;Carrot/peppercarrot_ep12_translation-master/br/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        width="2481"
        height="3503"
@@ -185,7 +185,7 @@
      inkscape:label="txt">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1523.9125,969.46981 c 53.3441,-29.25408 81.1933,-20.76994 101.8072,-16.36211 0.5992,5.5105 3.8441,15.28343 3.8441,15.28343 0,0 41.1225,5.61559 56.3704,11.98883 15.248,6.37331 8.6437,21.49794 8.6437,21.49794 0,0 -80.0923,-9.27947 -97.566,-7.1147 -0.9143,-15.11081 -3.6662,-22.57337 -1.3352,-27.91134 -11.0473,-5.66958 -52.4533,-7.1955 -71.7642,2.61795 z"
+       d="m 1463.5375,995.34481 c 53.3441,-29.25408 81.1933,-20.76994 101.8072,-16.36211 0.5992,5.5105 3.8441,15.28343 3.8441,15.28343 0,0 41.1225,5.61559 56.3704,11.98887 15.248,6.3733 8.6437,21.4979 8.6437,21.4979 0,0 -80.0923,-9.2795 -97.566,-7.1147 -0.9143,-15.1108 -3.6662,-22.57337 -1.3352,-27.91134 -11.0473,-5.66958 -52.4533,-7.1955 -71.7642,2.61795 z"
        id="path4456"
        inkscape:connector-curvature="0" />
     <flowRoot
@@ -230,12 +230,12 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(1.3522048,0,0,1.1983994,1398.065,768.36446)" />
+       transform="matrix(1.4547405,0,0,1.1757925,1351.6591,773.75282)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.3515489,0,0,1.3480944,1424.708,614.12731)"><flowRegion
+       transform="matrix(1.3515489,0,0,1.3480944,1427.583,619.87731)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -244,10 +244,10 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3071">CURSUS CANCELLARE MAXIMUS!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3071">CURSUS ANNULATIONUS MAXIMUS!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4-1"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1)"
        transform="matrix(1.2697578,-0.74824138,0,2.7807265,310.64095,311.96784)"><flowRegion
          id="flowRegion2989-4-5-8-7-41-7-62-2"
          style="stroke-width:4.26661348"><rect
@@ -256,35 +256,35 @@
            height="53.089447"
            x="120.55251"
            y="265.53046"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara2995-4-1-5-0-7-2-6-4"
-         style="font-size:48px;font-weight:normal;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.78366369;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Lavi">Sh<flowSpan
+         style="font-weight:normal;font-size:48px;-inkscape-font-specification:Lavi;letter-spacing:7.06853437px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.78366369;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Ch<flowSpan
    style="font-size:31.93093681px"
    id="flowSpan4269">Klak!</flowSpan></flowPara></flowRoot>    <flowRoot
        transform="matrix(0.87151273,0,-0.21233453,1.5605106,847.75024,2980.666)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
          id="flowRegion4214-6-7-8-3"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
            y="265.53046"
            x="120.55251"
            height="355.03918"
            width="798.1947"
            id="rect4216-4-0-26-5" /></flowRegion><flowPara
-         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara4358-7-1">- FIM -</flowPara></flowRoot>    <flowRoot
+         style="font-size:48px;text-align:center;letter-spacing:5.20896292px;text-anchor:middle;stroke:#000000;stroke-width:4.7003541;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="flowPara4358-7-1">- ECHU -</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.55119371px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85499998;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-size:6.55119371px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.85499998;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        transform="translate(347.26927,3351.8198)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
-           width="2272.3872"
-           height="36.627567"
-           x="-245.11009"
+           width="1283.3873"
+           height="39.502567"
+           x="-69.735092"
            y="-2.5750711"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#000000" /></flowRegion><flowPara
-         style="font-size:32.97025299px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
-         id="flowPara3272-6-3-1">10/2015 - Arte e roteiro : David Revoy, Tradução: Alexandre Esteves Almeida</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
+         style="font-size:32.97025299px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
+         id="flowPara3272-6-3-1">10/2015 - Tresañ &amp; Senario : David Revoy</flowPara></flowRoot>  </g>
 </svg>
