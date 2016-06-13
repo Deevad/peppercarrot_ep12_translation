@@ -67,15 +67,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30716529"
      inkscape:cx="1206.8492"
      inkscape:cy="802.63518"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -84,7 +84,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep12_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep12_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        width="2481"
        height="3503"
@@ -201,7 +201,7 @@
          style="font-size:45px;line-height:110.00000238%;text-align:center;text-anchor:middle"
          id="flowPara4352">i ku'i ba'a sarcu fa </flowPara><flowPara
          style="font-size:45px;line-height:110.00000238%;text-align:center;text-anchor:middle"
-         id="flowPara4041">lo cacra be li so'o i ji'a ba inflamati punli lo xance e lo jamfu mo'u lo fanmo</flowPara></flowRoot>    <path
+         id="flowPara4041">lo cacra be li so'o i ji'a ba inflamati punli lo xance e lo jamfu ca lo fanmo</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1400.4736,2533.7323 c -18.6319,22.5019 -44.8842,46.6694 -52.0048,51.8217 -6.8645,-10.1867 -15.2086,-18.7014 -21.5731,-25.4015 -11.7344,10.6559 -61.4082,63.3167 -64.096,80.5357 4.1256,-43.1549 37.0517,-85.8621 58.589,-101.807 10.249,8.0984 15.2352,13.7511 20.7482,17.9401 11.4577,-7.4488 38.6153,-39.0061 38.6153,-39.0061 z"
        id="path5066"
