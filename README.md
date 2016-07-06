@@ -28,7 +28,7 @@ License
 
 * Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
 
-* French: David Revoy
+* French: David Revoy, corrections: Xavier Dolques
 
 * Polish: Sölve Svartskogen
 
