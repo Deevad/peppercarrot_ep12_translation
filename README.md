@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 12: Autumn Clearout
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -16,7 +16,7 @@ License
 
 * Breton: Stefan Carpentier 
 
-* Catalan: Juan José Segura
+* Catalan: Juan Jos? Segura
 
 * Chinese: Ran Zhuang
 
@@ -30,9 +30,11 @@ License
 
 * French: David Revoy, corrections: Xavier Dolques
 
-* Polish: Sölve Svartskogen
+* Greek: George Karettas
 
-* Hungarian: Halász Gábor "Hali"
+* Polish: S?lve Svartskogen
+
+* Hungarian: Hal?sz G?bor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
 
