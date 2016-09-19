@@ -46,6 +46,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Norwegian: Thomas Nordstrøm
+
 * Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
