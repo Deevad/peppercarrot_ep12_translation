@@ -26,9 +26,11 @@ License
 
 * English: Alex Gryson
 
-* Finnish: Kari Lehto
-
 * Esperanto: Libre fan (librefan.eu.org), corrections: Kaoseto
+
+* Farsi: Aslan Zamanloo
+
+* Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Xavier Dolques
 
