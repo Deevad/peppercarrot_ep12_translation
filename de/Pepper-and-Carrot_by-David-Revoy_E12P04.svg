@@ -182,15 +182,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.49469369"
-     inkscape:cx="1461.8425"
-     inkscape:cy="568.13825"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1219.2682"
+     inkscape:cy="648.99637"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -199,13 +199,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep12_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
+       sodipodi:absref="C:\work\git\peppercarrot_ep12_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -282,7 +282,7 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="flowPara4327">... Ein Schwarzes </flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.69999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="flowPara3601">Chaosāh Loch?!...</flowPara></flowRoot>    <path
+         id="flowPara3601">Chaosāh-Loch?!...</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1070.982,2568.5839 c 8.7637,5.2154 141.7779,86.5711 61.3807,61.0441 36.3964,35.5915 16.5811,59.2682 -0.039,83.622 11.329,8.8746 30.5258,12.7497 21.8913,34.3101 13.0598,-1.152 20.2591,7.7065 22.2295,25.4972 11.6959,-21.3808 20.2372,-24.2944 20.8958,18.9382 6.679,-31.7638 13.819,-61.2606 35.4832,-19.3367 2.8511,-11.6293 -15.8477,-43.2407 51.4805,-19.247 -18.6045,-23.709 -26.9588,-47.1817 24.7644,-66.8065 -16.9327,-11.2154 -27.1142,-25.59 2.4674,-45.49 -17.3835,-8.0001 -13.5974,-37.0514 -7.9216,-47.0666 -24.4314,18.1369 -37.0289,15.3922 -33.6658,-13.9394 -45.899,42.8326 -33.0105,3.9428 -40.9345,-5.3806 -19.7635,36.2015 -32.4396,16.606 -46.9604,7.3124 6.6292,51.3875 -90.5942,-12.1289 -111.0714,-13.4572 z"
        id="path3549-3"
@@ -329,7 +329,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke:none" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
-         id="flowPara3607">... Das verstehtst Du also wenn ich sage:</flowPara><flowPara
+         id="flowPara3607">... Das verstehst Du </flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
+         id="flowPara3412">also, wenn ich sage:</flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
          id="flowPara4392">&quot;keine Magie&quot;?</flowPara></flowRoot>    <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -396,7 +398,11 @@
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
          id="flowPara4535">Und ich hatte recht. </flowPara><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
-         id="flowPara3620">Es ist nicht möglich dich einen Moment außer acht zu lassen!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3620">Man kann dich nicht</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
+         id="flowPara3414">einen Moment aus den</flowPara><flowPara
+         style="font-size:45px;text-align:center;text-anchor:middle;stroke:none"
+         id="flowPara3416">Augen lassen!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
