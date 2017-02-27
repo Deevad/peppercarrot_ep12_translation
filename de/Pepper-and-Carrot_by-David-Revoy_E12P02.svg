@@ -67,15 +67,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34980127"
-     inkscape:cx="2105.3023"
-     inkscape:cy="1041.2743"
-     inkscape:window-x="1974"
-     inkscape:window-y="-8"
+     inkscape:cx="1304.8478"
+     inkscape:cy="698.22237"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -84,13 +84,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep12_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
+       sodipodi:absref="C:\work\git\peppercarrot_ep12_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -197,7 +197,7 @@
            y="294.1181"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-size:45px;text-align:center;text-anchor:middle"
-         id="flowPara4352">Aber das dauert Stunden, und erst die Blasen die wir danach haben werden!</flowPara></flowRoot>    <path
+         id="flowPara4352">Aber das dauert Stunden, und erst die Blasen, die wir danach haben werden!</flowPara></flowRoot>    <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 1400.4736,2533.7323 c -18.6319,22.5019 -44.8842,46.6694 -52.0048,51.8217 -6.8645,-10.1867 -15.2086,-18.7014 -21.5731,-25.4015 -11.7344,10.6559 -61.4082,63.3167 -64.096,80.5357 4.1256,-43.1549 37.0517,-85.8621 58.589,-101.807 10.249,8.0984 15.2352,13.7511 20.7482,17.9401 11.4577,-7.4488 38.6153,-39.0061 38.6153,-39.0061 z"
        id="path5066"
