@@ -56,6 +56,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Serbian: Marko Ivancevic
+
 * Slovak: talime
 
 * Spanish: TheFaico
