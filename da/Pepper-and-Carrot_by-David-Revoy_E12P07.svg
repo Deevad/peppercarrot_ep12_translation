@@ -154,9 +154,9 @@
      inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1429.8629"
-     inkscape:cy="517.28885"
+     inkscape:zoom="0.24595019"
+     inkscape:cx="1326.3956"
+     inkscape:cy="1944.8624"
      inkscape:window-x="61"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -169,11 +169,11 @@
     <image
        sodipodi:absref="/home/emmiline/Documents/git/peppercarrot/peppercarrot_ep12_translation/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E12P07.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -230,12 +230,12 @@
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc"
-       transform="matrix(1.5517232,0,0,1.2541787,1441.7697,825.33634)" />
+       transform="matrix(1.3567658,0,0,1.7362776,1468.3158,753.66701)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2987-4-9-3"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.4416522,0,0,1.4379674,1522.7552,661.20246)"><flowRegion
+       transform="matrix(1.4416522,0,0,1.4379674,1478.0307,661.20246)"><flowRegion
          id="flowRegion2989-5-4-5"><rect
            id="rect2991-7-9-6"
            width="602.40173"
@@ -244,7 +244,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-         id="flowPara3071">CURSUS ANNULATIONUS MAXIMUS!</flowPara></flowRoot>    <flowRoot
+         id="flowPara3071">INCANTATEM ANNULATIONUS</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara60">MAXIMUS!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot2987-7-9-9-7-0-3-4-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.78366369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1)"
@@ -277,15 +279,15 @@
        xml:space="preserve"
        id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0.01%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;opacity:0.85499998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       transform="translate(209.87499,8.6249997)"><flowRegion
+       transform="translate(241.49999,5.7499998)"><flowRegion
          id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"
          style="stroke-width:1.06666672"><rect
            id="rect2991-7-9-6-21-9-8-0-3-1-7"
-           width="1616.1965"
-           height="47.885986"
+           width="1655.009"
+           height="46.448486"
            x="296.03647"
            y="3572.5278"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:end;text-anchor:end;fill:#000000;stroke-width:1.13777781" /></flowRegion><flowPara
          style="font-size:35.16827011px;line-height:1.25;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke-width:1.06666672"
-         id="flowPara3272-6-3-1">10/2015 – Dessin &amp; Scénario : David Revoy – Oversættelse: Emmiline, Rikke &amp; Alexandre Alapetite</flowPara></flowRoot>  </g>
+         id="flowPara3272-6-3-1">10/2015 – Tegning og manuskript: David Revoy – Oversættelse: Emmiline, Rikke &amp; Alexandre Alapetite</flowPara></flowRoot>  </g>
 </svg>
