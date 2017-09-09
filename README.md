@@ -32,6 +32,8 @@ License
 
 * Farsi: Aslan Zamanloo
 
+* Filipino: Paolo Abes
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Xavier Dolques
